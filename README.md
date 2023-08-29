@@ -31,7 +31,7 @@ My name is Julia Pak. I'm a 38 year old developer from Toronto, Ontario Canada. 
 
 * I don't own an android and have not tested my project on Android simulator. However this project is Android compatible. I have set it up to work on Android with my signing keys just in case. If needed I will send an APK file over!
 
-<p align="center"><img alt="img-name" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iNeedHelpX&theme=aura" height="500"><br><sup><em>Organization of the file structure(essentially MVVM)...Plus I use VSCode!</sup></em></p>
+<p align="center"><img alt="img-name" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iNeedHelpX&theme=aura" height="1"><br><sup><em>Organization of the file structure(essentially MVVM)...Plus I use VSCode!</sup></em></p>
 
 ![caption 1](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iNeedHelpX&theme=aura)
 
