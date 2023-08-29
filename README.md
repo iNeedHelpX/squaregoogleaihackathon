@@ -19,7 +19,7 @@ As temperatures rise and droughts intensify, good coffee will become increasingl
 
 <div align="center">
 
-## License
+# License
 
 Copyright (c) November 2022 by Julia Pak
 
