@@ -23,6 +23,8 @@ Amet est placerat in egestas erat. Euismod quis viverra nibh cras pulvinar matti
 
 ## About me
 
+My name is Julia Pak. I'm a 38 year old developer from Toronto, Ontario Canada. I have a passion for learning and I love to code! I'm always looking for new challenges.
+
 * I run on a mac M1, iPhone XS Max and xcode simulator.
 
 * VSCode is my IDE of choice.
