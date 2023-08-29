@@ -18,7 +18,8 @@ As temperatures rise and droughts intensify, good coffee will become increasingl
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iNeedHelpX&theme=aura)
 
 <div align="center">
-# License
+
+## License
 
 Copyright (c) November 2022 by Julia Pak
 
