@@ -7,12 +7,11 @@ As temperatures rise and droughts intensify, good coffee will become increasingl
 <div align="center"><h3 align="center">Technologies used in this app</h3>
 
 <li> <b>Flutter/dart</b> For mobile app front end<br></li>
-<li> <b>StripeApi</b> Payments implementation<br></li>
-<li> <b>RapydApi</b> Alternative Payments implementation<br></li>
+<li> <b>Square Payments</b> Payments implementation<br></li>
+<li> <b>Google tensorfloq</b> AI stuff<br></li>
 <li> <b>Firebase</b> For auth + database +cloud functions.<br></li>
 <br>
     </div>
-
 
 ## About me
 
