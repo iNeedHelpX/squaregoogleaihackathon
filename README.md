@@ -13,7 +13,8 @@ As temperatures rise and droughts intensify, good coffee will become increasingl
 <br>
     </div>
 
-## About me
+<div align="center">
+### About me
 
 * I run on a mac M1, iPhone XS Max and xcode simulator.
 
@@ -22,8 +23,6 @@ As temperatures rise and droughts intensify, good coffee will become increasingl
 * I don't own an android and have not tested my project on Android simulator. However this project is Android compatible. I have set it up to work on Android with my signing keys just in case. If needed I will send an APK file over!
 
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iNeedHelpX&theme=aura)
-
-<div align="center">
 
 # License
 
