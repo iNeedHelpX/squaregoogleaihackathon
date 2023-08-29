@@ -31,9 +31,7 @@ My name is Julia Pak. I'm a 38 year old developer from Toronto, Ontario Canada. 
 
 * I don't own an android and have not tested my project on Android simulator. However this project is Android compatible. I have set it up to work on Android with my signing keys just in case. If needed I will send an APK file over!
 
-![my github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iNeedHelpX&theme=aura)
-
-<span class="caption">The [Amazon Rainforest](https://en.wikipedia.org/wiki/Amazon_rainforest) contains a multitude of species.</span>
+![my github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iNeedHelpX&theme=aura)<span class="caption">The [Amazon Rainforest](https://en.wikipedia.org/wiki/Amazon_rainforest) contains a multitude of species.</span>
 
 
 <div align="center">
