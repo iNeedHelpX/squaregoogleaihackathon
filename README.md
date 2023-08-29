@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&size=36&pause=1000&color=F703B5&center=true&multiline=true&width=600&height=100&lines=Google+AI+%2B+Square+hackathon;By+Julia+Pak)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&size=36&pause=1000&color=F703B5&center=true&vCenter=true&multiline=true&width=560&height=100&lines=Google+AI+%2B+Square+hackathon+entry;By+Julia+Pak)](https://git.io/typing-svg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit sed vulputate mi sit amet mauris commodo quis imperdiet. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Ridiculus mus mauris vitae ultricies leo integer malesuada nunc. Ac tortor vitae purus faucibus ornare suspendisse sed nisi. Netus et malesuada fames ac turpis egestas sed. Eros donec ac odio tempor orci dapibus. Est lorem ipsum dolor sit amet consectetur adipiscing elit. Elementum sagittis vitae et leo. Pretium quam vulputate dignissim suspendisse in est ante. Consectetur lorem donec massa sapien faucibus et.
 
