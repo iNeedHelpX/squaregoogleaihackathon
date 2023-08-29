@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=45&pause=2000&color=F700A3&center=true&width=900&height=75&lines=Hackathon+entry+for+Google+AI+%2B+Square)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=45&pause=2000&color=F700A3&center=true&width=900&height=75&lines=Hackathon+entry+for+Google+AI+%2B+Square)](https://git.io/typing-svg)
 
 As temperatures rise and droughts intensify, good coffee will become increasingly difficult to grow and expensive to buy. Since governments always react slowly to the problem, there is an opportunity to help.
 
@@ -30,4 +30,3 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 <br>
  </div>
-
