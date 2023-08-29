@@ -33,7 +33,8 @@ My name is Julia Pak. I'm a 38 year old developer from Toronto, Ontario Canada. 
 
 ![my github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iNeedHelpX&theme=aura)
 
-{{< caption >}}The [Amazon Rainforest](https://en.wikipedia.org/wiki/Amazon_rainforest) contains a multitude of species.{{< /caption >}}
+<span class="caption">The [Amazon Rainforest](https://en.wikipedia.org/wiki/Amazon_rainforest) contains a multitude of species.</span>
+
 
 <div align="center">
 
